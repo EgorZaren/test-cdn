@@ -8,10 +8,12 @@
 <img src="https://img.shields.io/badge/dependencies-jquery%20%3E%3D%203.0-blue">
 </p>
 
+### Please visit [Lotmix Api](https://lotmix.com.au/api/v1/docs) for information about the structure of enpoints used in this package
+
 ## Disclaimer
 This package provides effortless display of your company's house and lot information from [Lotmix](https://lotmix.com.au) on your website.
 
-### Installation & Configuration
+## Installation & Configuration
 
 add to your html code
 
@@ -68,5 +70,3 @@ change the id name for the entry point
 ```js
  <script data-token='your_token' data-primary-color='#FF7F50' data-id='your_id_name' src='cdn_url/build-options.js'></script>
 ```
-
-## Please visit [Lotmix Api](https://lotmix.com.au/api/v1/docs) for information about the structure of enpoints used in this package
