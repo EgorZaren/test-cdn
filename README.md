@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.lotmix.com.au/favicon_lotmix.ico" alt="Lotmix" width="180">
+<p align="center"><img src="https://www.lotmix.com.au/images/Lmix_logo.svg" alt="Lotmix" width="180">
 </p>
 
 <h1 align="center">Lotmix Build Options</h1>
